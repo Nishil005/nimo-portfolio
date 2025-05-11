@@ -7,8 +7,8 @@ const projects = [
     description: "A simple React app that fetches and displays real-time weather data by city name. It uses an external API to show temperature, conditions, and icons.",
     image: "/weather.jpg",
     tags: ["React", "Material UI", "JS"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://nishil005.github.io/nimo-weatherApp/",
+    githubUrl: "https://github.com/Nishil005/nimo-weatherApp",
   },
   {
     id: 2,
