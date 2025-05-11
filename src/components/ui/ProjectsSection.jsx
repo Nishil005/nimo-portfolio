@@ -27,8 +27,8 @@ const projects = [
       "A fun card-flip memory game built using React. It tracks matched pairs and uses component state to manage game logic and animations.",
     image: "/mem.jpg",
     tags: ["React", "Node.js", "js"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://nishil005.github.io/nimo-memory-game/",
+    githubUrl: "https://github.com/Nishil005/nimo-memory-game",
   },
 ];
 
